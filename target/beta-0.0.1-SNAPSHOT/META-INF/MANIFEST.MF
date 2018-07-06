@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: beta
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: scape
+Implementation-Vendor-Id: com.betaschool
+Created-By: IntelliJ IDEA
+Build-Jdk: 1.8.0_121
+Main-Class: ${start-class}
+
